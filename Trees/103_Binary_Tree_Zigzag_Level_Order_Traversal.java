@@ -1,6 +1,6 @@
 package Trees;
 
-public class 103_Binary_Tree_Zigzag_Level_Order_Traversal {
+class 103_Binary_Tree_Zigzag_Level_Order_Traversal {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> ans = new ArrayList<>();
         if (root == null) {

@@ -1,6 +1,6 @@
 package Trees;
 
-public class class 199_Binary_Tree_Right_Side_View {
+public class 199_Binary_Tree_Right_Side_View {
     public List<Integer> rightSideView(TreeNode root) {
         if (root == null) {
             return new ArrayList<>();
