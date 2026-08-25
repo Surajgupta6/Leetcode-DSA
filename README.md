@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0018-4sum) |
 | [1872-stone-game-viii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1872-stone-game-viii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0018-4sum) |
 | [0086-partition-list](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0086-partition-list) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
