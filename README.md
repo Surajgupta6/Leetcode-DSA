@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
