@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0078-subsets) |
 | [0875-koko-eating-bananas](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [1872-stone-game-viii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0078-subsets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -123,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
