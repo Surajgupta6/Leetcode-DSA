@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1079-letter-tile-possibilities](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0115-distinct-subsequences](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
+| [1079-letter-tile-possibilities](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1079-letter-tile-possibilities](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0526-beautiful-arrangement](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0526-beautiful-arrangement) |
+| [1079-letter-tile-possibilities](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 ## Bitmask
 |  |
 | ------- |
