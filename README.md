@@ -69,19 +69,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0018-4sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0526-beautiful-arrangement) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
