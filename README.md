@@ -70,16 +70,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sorting
 |  |
 | ------- |
