@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0526-beautiful-arrangement) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [1079-letter-tile-possibilities](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0077-combinations) |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0621-task-scheduler) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
