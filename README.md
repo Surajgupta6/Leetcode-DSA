@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0526-beautiful-arrangement](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0526-beautiful-arrangement) |
 | [0621-task-scheduler](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0621-task-scheduler) |
+| [0835-image-overlap](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1872-stone-game-viii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1872-stone-game-viii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0835-image-overlap) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
 ## Heap (Priority Queue)
 |  |
