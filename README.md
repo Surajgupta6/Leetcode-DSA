@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0018-4sum) |
+| [0451-sort-characters-by-frequency](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0133-clone-graph) |
+| [0451-sort-characters-by-frequency](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1079-letter-tile-possibilities](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
+| [0451-sort-characters-by-frequency](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1079-letter-tile-possibilities](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1079-letter-tile-possibilities](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -205,9 +209,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0621-task-scheduler) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
