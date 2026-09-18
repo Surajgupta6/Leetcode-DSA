@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0055-jump-game) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0086-partition-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
