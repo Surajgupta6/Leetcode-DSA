@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1079-letter-tile-possibilities](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0621-task-scheduler) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0451-sort-characters-by-frequency](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1079-letter-tile-possibilities](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
