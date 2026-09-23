@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sorting
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -267,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
