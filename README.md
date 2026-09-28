@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -255,11 +256,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1514-path-with-maximum-probability) |
 ## Matrix
 |  |
@@ -299,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
