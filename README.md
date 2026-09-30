@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0140-word-break-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0140-word-break-ii) |
