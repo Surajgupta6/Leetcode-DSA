@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0621-task-scheduler) |
