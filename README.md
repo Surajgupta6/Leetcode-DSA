@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0139-word-break) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bucket Sort
