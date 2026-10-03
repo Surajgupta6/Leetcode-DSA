@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [1096-brace-expansion-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0684-redundant-connection](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1514-path-with-maximum-probability) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Trie
 |  |
