@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1872-stone-game-viii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Graph Theory
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0835-image-overlap) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
