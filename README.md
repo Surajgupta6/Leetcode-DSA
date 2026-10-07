@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0526-beautiful-arrangement) |
 | [1079-letter-tile-possibilities](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
