@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
+| [0934-shortest-bridge](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0934-shortest-bridge) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1514-path-with-maximum-probability](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1514-path-with-maximum-probability) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0684-redundant-connection) |
+| [0934-shortest-bridge](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0934-shortest-bridge) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0684-redundant-connection) |
+| [0934-shortest-bridge](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0934-shortest-bridge) |
 | [1096-brace-expansion-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0835-image-overlap) |
+| [0934-shortest-bridge](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0934-shortest-bridge) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Heap (Priority Queue)
