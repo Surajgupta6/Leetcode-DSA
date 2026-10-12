@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0091-decode-ways](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0139-word-break) |
