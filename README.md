@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0934-shortest-bridge](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0934-shortest-bridge) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1514-path-with-maximum-probability](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Graph Theory
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0835-image-overlap) |
 | [0934-shortest-bridge](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0934-shortest-bridge) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Heap (Priority Queue)
 |  |
