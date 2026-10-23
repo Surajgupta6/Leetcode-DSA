@@ -1,7 +1,21 @@
 class Solution {
     public int change(int amount, int[] coins) {
-        int n=coins.length;
-        int[][] dp = new int[amount + 1][n+1];
+        int n = coins.length;
+        int[] dp = new int[amount + 1];
+        dp[0]=1;
+        for (int coin : coins) {
+            for (int a = coin; a <= amount; a++) {
+                dp[a] += dp[a - coin];
+            }
+        }
+        return dp[amount];
+    }
+}
+
+class Solution2 {
+    public int change(int amount, int[] coins) {
+        int n = coins.length;
+        int[][] dp = new int[amount + 1][n + 1];
         Arrays.fill(dp[0], 1);
         for (int a = 1; a <= amount; a++) {
             for (int idx = n - 1; idx >= 0; idx--) {
