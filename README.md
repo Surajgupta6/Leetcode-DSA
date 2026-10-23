@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0228-summary-ranges) |
+| [0322-coin-change](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0463-island-perimeter](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0463-island-perimeter) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0516-longest-palindromic-subsequence](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0526-beautiful-arrangement) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
@@ -462,4 +465,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
