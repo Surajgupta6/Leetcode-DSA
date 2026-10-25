@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0934-shortest-bridge](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0934-shortest-bridge) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1514-path-with-maximum-probability](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1514-path-with-maximum-probability) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0827-making-a-large-island) |
 | [0934-shortest-bridge](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0934-shortest-bridge) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1254-number-of-closed-islands](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0835-image-overlap) |
 | [0934-shortest-bridge](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0934-shortest-bridge) |
 | [1162-as-far-from-land-as-possible](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Heap (Priority Queue)
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [0827-making-a-large-island](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0827-making-a-large-island) |
+| [1254-number-of-closed-islands](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Trie
