@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [2409-count-days-spent-together](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0516-longest-palindromic-subsequence](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0133-clone-graph) |
+| [0279-perfect-squares](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -482,11 +485,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
