@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0416-partition-equal-subset-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0463-island-perimeter) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0526-beautiful-arrangement) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -512,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
