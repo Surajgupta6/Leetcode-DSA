@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0526-beautiful-arrangement) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [2409-count-days-spent-together](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0018-4sum) |
 | [0451-sort-characters-by-frequency](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1096-brace-expansion-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1096-brace-expansion-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
