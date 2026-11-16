@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0140-word-break-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0140-word-break-ii) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [0827-making-a-large-island](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0827-making-a-large-island) |
 | [1254-number-of-closed-islands](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
