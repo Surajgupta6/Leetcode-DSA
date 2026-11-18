@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1514-path-with-maximum-probability](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1514-path-with-maximum-probability) |
+| [1845-seat-reservation-manager](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1845-seat-reservation-manager) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bracket Sequences
@@ -532,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
+## Design
+|  |
+| ------- |
+| [1845-seat-reservation-manager](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1845-seat-reservation-manager) |
 <!---LeetCode Topics End-->
