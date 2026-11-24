@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [2409-count-days-spent-together](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3886-sum-of-sortable-integers](https://github.com/Surajgupta6/Leetcode-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
